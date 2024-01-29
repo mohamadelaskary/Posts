@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="error_in_getting_data">Error in getting data</string>
+    <string name="no_posts_found">No posts found</string>
+</resources>
